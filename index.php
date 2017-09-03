@@ -4,7 +4,7 @@ $username = "itglarid_docsea";
 $password = "docsea%23";
 
 // Create connection
-$conn = new mysqli($servername, $username, $password);
+$conn = new mysql($servername, $username, $password);
 
 // Check connection
 if ($conn->connect_error) {
