@@ -1,5 +1,5 @@
 <?php
-$servername = "208.91.198.109";
+$servername = "itglance.org";
 $username = "itglarid_docsea";
 $password = "doc@sea12";
 
