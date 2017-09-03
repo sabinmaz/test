@@ -1,7 +1,7 @@
 <?php
 $servername = "itglance.org";
 $username = "itglarid_docsea";
-$password = "doc@sea12";
+$password = "doc@sea123";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
