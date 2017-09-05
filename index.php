@@ -1,6 +1,6 @@
 <?php
 $servername = "208.91.198.109";
-$username = "itglarid_docse";
+$username = "itglarid_docsea";
 $password = "docsea%23";
 // Create connection
 $conn = new mysqli($servername, $username, $password);
